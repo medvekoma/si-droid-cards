@@ -10,10 +10,10 @@ def process():
     if si.isdigit():
       name = '%s %s' % (row[2], row[3])
       club = row[7]
-      dictionary[name] = (si, club)
+      dictionary[(name, si)] = club
   sdict = sorted(dictionary.items())
   for key, value in sdict:
-    print '%s,%s,%s' % (value[0], key, value[1])
+    print '%s,%s,%s' % (key[1], key[0], value)
 
 if __name__ == '__main__':
   process()
