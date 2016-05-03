@@ -8,12 +8,12 @@ def process():
     row = line.split(';')
     si = row[1]
     if si.isdigit():
-      name = row[2] + ' ' + row[3]
+      name = '%s %s' % (row[2], row[3])
       club = row[7]
-      dictionary[int(si)] = (name, club)
+      dictionary[name] = (si, club)
   sdict = sorted(dictionary.items())
   for key, value in sdict:
-    print '%s,%s,%s' % (key, value[0], value[1])
+    print '%s,%s,%s' % (value[0], key, value[1])
 
 if __name__ == '__main__':
   process()
