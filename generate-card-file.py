@@ -17,26 +17,35 @@ def get_archive():
       file.write(response.read())
   return filename
 
-def process():
+def get_card_list():
   input_file_name = get_archive()
+  card_list = []
+  with codecs.open(input_file_name, encoding='latin1') as input_file:
+    for line in input_file:
+      row = line.split(';')
+      si = row[1]
+      if si.isdigit():
+        name = row[2] + ' ' + row[3]
+        club = row[7]
+        val = (name, si, club)
+        card_list.append(val)
+  return sorted(card_list)
+
+def store_card_list(card_list):
   output_file_name = 'si-{0}.csv'.format(get_date_pattern())
-  with codecs.open(input_file_name) as input_file:
-    with codecs.open(output_file_name, mode='w', encoding='utf-8-sig') as output_file:
-      for line in input_file:
-        row = line.split(';')
-        si = row[1]
-        if si.isdigit():
-          lastname = row[2]
-          firstname = row[3]
-          club = row[7]
-          outputline = '%s,%s %s,%s\r\n' % (si, lastname, firstname, club)
-          outputline = unicode(outputline.decode('latin1'))
-          outputline = outputline\
-            .replace(u'û', u'ű')\
-            .replace(u'õ', u'ő')\
-            .replace(u'Õ', u'Ő')\
-            .replace(u'Û', u'Ű')
-          output_file.write(outputline)
+  with codecs.open(output_file_name, mode='w', encoding='utf-8-sig') as output_file:
+    for card in card_list:
+      outputline = '%s,%s,%s\r\n' % (card[1], card[0], card[2])
+      outputline = unicode(outputline) \
+        .replace(u'û', u'ű') \
+        .replace(u'õ', u'ő') \
+        .replace(u'Õ', u'Ő') \
+        .replace(u'Û', u'Ű')
+      output_file.write(outputline)
+
+def process():
+  card_list = get_card_list()
+  store_card_list(card_list)
 
 if __name__ == '__main__':
   process()
