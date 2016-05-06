@@ -1,5 +1,9 @@
 # si-droid-cards
 
+```bash
+python generate-card-file.py
+```
+
 ## Magyar
 A program letölti az SI archívumot az MTFSZ honlapról, és átalakítja az SI Droid alkalmazásnak megfelelő formátumra.
 
