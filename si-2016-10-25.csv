@@ -228,7 +228,6 @@
 872,Brezina Lajos,AOS
 233521,Brogyáni Péter,FMT
 2066463,Brunner Sándor,MSE
-332876,Bubics Borbála,GOC
 307704,Buda József,BSC
 363451,Budai Ferenc,HRF
 2072260,Budincsevich Anna,HOD
@@ -401,6 +400,7 @@
 45541,Debnár Zsuzsanna,DTC
 2022116,Debreczeni Szabolcs,PAK
 45510,Decsi Tamás,EK
+2099479,Dedinszky Imre,SMA
 46034,Demeter Ambrus,DTC
 45287,Demeter Zsolt,DTC
 2072264,Demeter Áron,DCS
@@ -544,7 +544,7 @@
 2066455,Fekete Sámuel,ZTC
 45280,Fekete Zoltán,ESP
 700006,Fekete Zsuzsa,SAS
-1396158,Fekete Ágoston,ZTC
+8150415,Fekete Ágoston,ZTC
 363476,Felber Gyula,HER
 45965,Felber Orsolya,HER
 332863,Felföldi Barnabás,KFK
@@ -570,7 +570,7 @@
 1332287,Fleischer Zoltán,SPA
 1396250,Fluck István,PVM
 363490,Fluck Marcell,PVM
-957,Fodor Emese,DTC
+957,Fodor Emese,SZT
 45909,Fodor József,SZV
 2062993,Fodor Péter,ZST
 2026873,Foki Szilveszter,GOC
@@ -645,8 +645,8 @@
 307777,Gerely Ferenc,HSP
 232798,Gergely Balázs,HSP
 888356,Gergely Csaba,KFK
-201549,Germán-Salló Zoltán,GOC
 2061621,Germán-Salló Zoltán,GOC
+2072525,Germán-Salló Zoltán,GOC
 1300087,Gerzsényi Zsolt,DTC
 45119,Gerzsényi Ágnes,ZTC
 505249,Gesztesi Zsolt,SZU
@@ -667,7 +667,7 @@
 443161,Goldmann Júlia,SDS
 443152,Goldmann Kata,SDS
 927,Goldmann Róbert,SDS
-332841,Gombkötő Péter,TTE
+8384000,Gombkötő Péter,TTE
 2066466,Gombkötő Péter dr.,TTE
 233530,Gombkötő Zsuzsanna,VTC
 307566,Gombos Csaba,MAF
@@ -813,7 +813,7 @@
 233567,Havasi Gergely Győző,KOS
 307550,Havasi István,DTC
 1300079,Heckenast Tamás,VTC
-45245,Hecz Katalin,VTC
+45245,Hecz Katalin,HRF
 232807,Hegedűs Béla,SAS
 981,Hegedűs Gergely,SAS
 233507,Hegedűs Klára,OSC
@@ -1068,7 +1068,7 @@
 307554,Kemenczky Jenő,SPA
 222995,Kempelen Miklós,OSC
 2061624,Kentelki Gábor,GOC
-2061623,Kentelki Márton,GOC
+9102818,Kentelki Márton,GOC
 2022263,Kenyeres Krisztián,GOC
 2022163,Kenyeres Zoltán,GOC
 874,Kenéz Balázs,AOS
@@ -1698,7 +1698,7 @@
 45225,Novai György,SZU
 505210,Novai György,SZV
 4394,Novai Magdolna,SZV
-2067272,Novai Éva,SZV
+8005160,Novai Éva,SZV
 505247,Novotni Tiborné,BBB
 502916,Novák Martina,SZV
 2022171,Nyakas Ádám,GOC
@@ -1914,7 +1914,7 @@
 5623,Pócsi László,SIR
 46022,Pólya Dániel,PAK
 332895,Pózna András,EK
-332890,Pózna Anna Ibolya,GOC
+2103905,Pózna Anna Ibolya,GOC
 363446,Pózna Diána,EK
 2072288,Radics Anna,ETC
 505228,Radnai Zsolt,PVS
@@ -2142,7 +2142,6 @@
 46018,Szabó Ákos,HOD
 363492,Szabóné Gombási Julianna,DIS
 900,Szabóné Tóth Krisztina,DNY
-307785,Szacska Nikolett,ESP
 46004,Szajkó Csaba,ETC
 944,Szajkó Zsuzsanna,ETC
 332875,Szaknyéri Vendel Attila,GOC
@@ -2156,13 +2155,11 @@
 206013,Szalai Éva,GYO
 2069576,Szalay András Sebestyén,CSP
 411939,Szalay János,HRF
-1409483,Szalay Levente,GOC
-1409483,Szalay Levente,GOC
 232813,Szalkai Iván,SSC
 2019794,Szalmás Márton,MOM
 307729,Szalontai Beáta,BDI
 363473,Szalóki Gábor,GYO
-233560,Szalóki Rezső,GYO
+8111114,Szalóki Rezső,GYO
 2082367,Szandi Bence,SZT
 2066489,Szandi Péter,SZT
 2022175,Szandi Sára Barbara,GOC
@@ -2261,7 +2258,7 @@
 2032051,Széplaki Erika,VHS
 363450,Szóka Attila,VBT
 339888,Szőcs Anett,HSP
-2016125,Szőcs Attila,GOC
+9102026,Szőcs Attila,GOC
 233550,Szőcs Fruzsina,KST
 307553,Szőcs László,HSP
 2061626,Szőcs Zoltán,GOC
@@ -2583,7 +2580,7 @@
 2026829,Vincze Zsombor,GOC
 7201400,Viniczai Csenge,PVS
 1396171,Viniczai Ferenc,PVS
-433026,Viniczai Hanga,PVS
+2054139,Viniczai Hanga,PVS
 433021,Viniczai Judit,PVS
 1396169,Viniczainé Kovács Ildikó,PVS
 307756,Vinkó Zsigmond,HRF
@@ -2620,15 +2617,16 @@
 46126,Vásárhelyi Tass,ESP
 2026883,Vécsei Dávid,GOC
 980,Vékony Andor,ARA
-443189,Vékony Janka,ARA
+8020905,Vékony Janka,ARA
 7991029,Vékony Vanda,ARA
-443187,Vékonyné Árva Katalin,ARA
+8131273,Vékonyné Árva Katalin,ARA
 502391,Völgyesi Beáta,SPA
 2022142,Völgyesi Melody,SPA
 2082377,Vörös Dániel,BEA
 7007070,Vörös Endre,HOD
 2019812,Vörös Gábor,NKZ
 2022180,Vörös Sándor,GOC
+2061637,Vörös Ádám,SIR
 46025,Weibl Zoltán,SFC
 2082333,Weiler Vilmos,SPA
 2022128,Weiler Vince,SPA
@@ -2641,7 +2639,7 @@
 45577,Wengrin Istvánné,VTC
 45455,Wengrin Ágnes,TTE
 45394,Weress Kálmán,TTE
-1000042,Werner Péter,PVS
+2099478,Werner Péter,PVS
 448970,Wieder Ferenc,VHS
 307744,Wieder Ilona,VHS
 45257,Wittinger Zsuzsa,BEA
