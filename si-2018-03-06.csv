@@ -32,6 +32,7 @@
 307545,Antal István,BMG
 46118,Antal Kristóf,SAS
 45981,Antal Miklós,PVS
+45969,Antal Mátyás,ESP
 307539,Antal Péter,BMG
 232766,Antók Gergely,OSC
 2052341,Apró Vivien Dóra,SZV
@@ -77,7 +78,6 @@
 2022154,Balog Judit Henrietta,GOC
 2111520,Balogh András,ASK
 222969,Balogh András,KST
-2022210,Balogh Bálint,GYO
 2050688,Balogh Edina,FSC
 363434,Balogh Iván dr.,BEA
 233559,Balogh József,GYO
@@ -102,9 +102,10 @@
 888340,Baracsi Gábor,TTE
 920652,Barcik Robert,SPA
 416746,Barciková Renáta,KST
-700024,Bardon-Kinde Vanda,SPA
+700024,Bardon-Kinde Vanda,GKS
 411995,Barki Andrea,HSE
 1300008,Barkász Dániel,SZV
+1543,Barlai Dániel,BMG
 233593,Barna István,KZS
 307506,Barna Péter,HRF
 416679,Barna Viktória,HRF
@@ -161,26 +162,27 @@
 2050658,Berta Brigitta,SZU
 45932,Berthold Anikó,SAS
 332870,Bertóti Diána,GOC
-307763,Bertóti Regina,GOC
+8120717,Bertóti Regina,GOC
 2032065,Berzsenyi Bence,VHS
 2015020,Berzsenyi Miklós,VHS
 2082371,Besenyei Zoltán,POE
+233604,Bessenyei István,SDS
 5966,Bettembuk Péter,DNY
 7579819,Beöthy Ádám,KFK
 887007,Biederman Marcin,SDS
 46075,Bihari Ildikó,HBS
 8102016,Bihari Zoltán,KFK
 888339,Bikki Sándor,VHS
-233533,Bilik Péter,MSE
+233533,Bilik Péter,GTC
 332811,Birincsik Péter,ESP
 307748,Birkás László,JMD
 45481,Biró Aletta,BEA
-45448,Biró Alma,KRI
-964,Biró Artúr,VSE
+45448,Biró Alma,BBB
+45194,Biró Artúr,VSE
 46133,Biró Fruzsina,BEA
 45480,Biró Gergely,BEA
 2072286,Biró Katalin,AOS
-45477,Biró Sándor,KRI
+45477,Biró Sándor,BBB
 45310,Biró Virág,DTC
 45275,Biró Áron,BEA
 2014978,Blaskó Benedek,VHS
@@ -197,16 +199,13 @@
 2050663,Bodó László Béla,SAS
 45906,Bodó Tibor,SZV
 4461,Bogdanovits András,HBS
-4461,Bogdanovits András,HBS
 207958,Bogdány Miklós,TTE
-2056193,Bognár Dóra,SKS
-443956,Bognár Gabriella,SKS
 4483,Bognár Ildikó,HSE
 2019781,Bognár Márk,HBS
 2092462,Bognár Zoltán,ASK
 2056190,Bogos Tamás,ARA
 1006649,Bogya Gergely,SIR
-1006660,Bogya Tamás,ETC
+1006660,Bogya Tamás,SIR
 2069580,Bohus Mariann,CSP
 46078,Bojtor László Tivadar,DIS
 9005283,Bojtor Szabolcs,ESP
@@ -219,9 +218,9 @@
 45449,Borbás Ágota Anna,KAL
 332886,Borbély Gábor,VBT
 2082378,Borbély Ádám,EK
-1050801,Bordács Krisztián,GTC
+8050601,Bordács Krisztián,GTC
 1711225,Bordács László,GTC
-1200701,Bordács Mónika,GTC
+8433599,Bordács Mónika,GTC
 7203257,Bordás Szabolcs,SAS
 8200105,Borhegyi Teodóra,BMG
 46139,Boros András,ETC
@@ -229,8 +228,8 @@
 45335,Boros Dániel,TSE
 2042377,Boros Imre,SSC
 8636778,Boros Kitti,ESP
-2015820,Boros Zoltán,HSE
-4660061,Borosnyai Bendegúz,ARA
+8280648,Boros Zoltán,HSE
+4660061,Borosnyay Bendegúz,ARA
 233675,Borosznoki László,MOM
 45434,Borosznoki Zita,MOM
 45134,Borsi Ferenc,NAV
@@ -242,7 +241,7 @@
 45426,Bossánszky Ákos,MOM
 7991221,Both András,TTT
 416646,Bozsits Szilvia,POE
-9760613,Bozsó Norbert,MCB
+9760613,Bozsó Norbert,TTE
 222996,Bozán György,HSP
 2072211,Boór András,SPA
 2072212,Boór Bernát,SPA
@@ -286,6 +285,7 @@
 2054403,Bálint Bence,VHS
 2800241,Bálint Benedek,VHS
 2032056,Bálint Gergő,VHS
+2014997,Bálint Nóra Napsugár,VHS
 5618,Bálint Sándor dr.,KST
 233694,Bálint Sándorné dr.,KST
 2032055,Bálint Ádám,VHS
@@ -299,10 +299,10 @@
 1941824,Bányai Attila,ZTC
 411955,Bányai Réka,HSP
 339826,Bárd Barbara,KAL
-339898,Bárány Tamás,ESP
+332815,Bárány Tamás,ESP
 45127,Bárány Tamás,TTE
 411983,Bátor Szilárd,ESP
-332845,Bérczes Miklós,FMT
+8648834,Bérczes Miklós,FMT
 339867,Bérczes Zsigmond,SPA
 411945,Béres László,PVM
 2019815,Bíró Bence,NKZ
@@ -312,8 +312,8 @@
 2066464,Bódi Doroti,ZTC
 2056172,Bódy Kornél,VHS
 332814,Bóka Bence,ESP
+7897273,Bótor Barbara,PVS
 7681206,Bózsó Zoltán,ESP
-2019806,Böhm Tamás,MOM
 307731,Bölcsföldi István,MAF
 2050664,Bölkei Zsolt,SPA
 232784,Börcsök István,KAL
@@ -325,6 +325,7 @@
 905,Chmelik Ernő,VHS
 2014981,Chmelik Levente,VHS
 2014985,Chmelik Roland,VHS
+46044,Cieger Bálint,BMG
 34804,Clément Berton,ARA
 2010851,Conforti Christian,SZV
 46121,Csajkó Petra,PSE
@@ -342,11 +343,13 @@
 416699,Cserjés Andrea dr.,HRF
 2026848,Cserkuti Dominika,GOC
 1396276,Cserna András,BKL
-1396278,Cserna András Máté,GTC
+8656996,Cserna András Máté,GTC
+8655950,Cserna Levente,GTC
 1396141,Cserpák Zsolt,MOM
 4660117,Cserteg István,TSC
 2066454,Csertán András,ZTC
 505203,Cservény Judit,HSP
+443957,Cseszka Bence,SKS
 2056194,Cseszka László,SKS
 238475,Csethe Zsolt,KFK
 232847,Csetényiné Guba Mária,HER
@@ -371,8 +374,10 @@
 411959,Csizmadia József,HER
 45352,Csizmadia Zoltán,THT
 45966,Csizmadia Ágnes,HER
-411958,Csizmadiáné Szóládi Annamária,HER
+411958,Csizmadiáné Szóládi Annamária,VHS
+2003107,Csizmazia Benedek,BSC
 45509,Csizmazia Tamás,AGD
+8648828,Csizmazia Villő,BSC
 4512,Csongrádi Jenő,BEA
 362969,Csonka Antal,HTC
 307705,Csonka Gábor,BSC
@@ -381,8 +386,6 @@
 2072239,Csorja Ida,HTC
 363484,Csuka Bonita Zsófia,SZV
 45229,Csuka Dolli,KAL
-45226,Csuka Zsigmond,CBD
-443957,Csupor Zoltán,SKS
 45956,Csáki Dalma,TTE
 307571,Csákány Anikó,OSC
 233681,Csányi László,FMT
@@ -391,8 +394,8 @@
 411989,Császár Barbara,GOC
 416613,Császár Jánosné,GOC
 8271078,Császár Éva,GOC
-8045300,Csécs Boglárka,ESP
-45300,Csécs Sándor,ESP
+8045300,Csécs Boglárka,DTC
+45300,Csécs Sándor,DTC
 45508,Csík Zoltán,KFK
 211819,Csíki Katalin Brigitta,KST
 2019786,Csóti Diána,KAL
@@ -406,13 +409,14 @@
 888346,Csúcs-Fenyvesi Laura,SAS
 363494,Czajtányi Endre,PSE
 8031118,Czakó Boglárka,MOM
+8070806,Czebei Luca,GOC
 2019803,Czibolya Lili,SZV
 438229,Czigány Anna,GOC
-2072287,Czimer Z. József,HUF
 45475,Czinege Csilla,KRI
 45474,Czinege János,KRI
 307717,Czirbesz Endre,MCB
 2111519,Czirják János,SPA
+2111536,Czirják Ádám,SPA
 233548,Cziráki Edit,BSC
 233605,Czégé Balázs,EMO
 307747,Czégé Zoltán,DTC
@@ -424,15 +428,15 @@
 363495,Dalos Áron,SPA
 45132,Dankó István,TTE
 232769,Dankó Zoltán,TTE
-2025040,Darabos Dominik,ZST
-2025041,Darabos Dorottya,ZST
 2072206,Daragó Zsófia,ETC
+443960,Darics Nikolett,SKS
 45490,Davidesz Ágnes,TTE
 45541,Debnár Zsuzsanna,DTC
 45510,Decsi Tamás,EK
 2099478,Dedinszky Imre,SMA
 8150416,Demeter Zsolt,DTC
 2072264,Demeter Áron,DCS
+9061216,Demeterné Dózsa Viktória,DTC
 362975,Demmiany Lajos,HSP
 34176,Denave Alizée,BEA
 1006650,Dervesteanu Andrada-Laura,ETC
@@ -445,7 +449,7 @@
 233638,Dinyák Gábor,VTC
 2061642,Divin György,SAS
 2061648,Divin Judit,SAS
-2061645,Divin Péter,SAS
+2061645,Divin Péter,SPA
 443167,Diószegi Bálint,SDS
 337872,Dobay Ivett,GKS
 337870,Dobay Zsolt,GKS
@@ -456,13 +460,10 @@
 2088258,Dobó Szilveszter,VSM
 2022182,Dobóvári Dzsenifer,HTC
 233603,Dolezsai Anna,HER
-1396229,Domján Zsuzsanna,PVS
+1396101,Domján Zsuzsanna,PVS
 505272,Domonyik Gábor,MEA
 2056173,Domán Fruzsina,VHS
-2056173,Domán Fruzsina,VHS
 2050175,Domán Gábor,VHS
-2050175,Domán Gábor,VHS
-2056158,Domán Rajmund,VHS
 2056158,Domán Rajmund,VHS
 233563,Donkó Anna,KOS
 233562,Donkó Luca,KOS
@@ -484,14 +485,13 @@
 46123,Durján Noémi,KST
 8580818,Dániel Edit,HSE
 2878,Dávid Kornél,KAL
-2066487,Décsey Emőke,SZT
-8041187,Dékány Andrea,GYO
-8090789,Dékány Szilvia,GYO
+2066487,Décsey Emőke,SDS
+8041187,Dékány Andrea,GKS
+8090789,Dékány Szilvia,GKS
 45469,Dénes Ildikó,KAL
 46050,Dénes Krisztina,KAL
 46051,Dénes Orsolya,KAL
 2019787,Dénes Réka,KAL
-443158,Dénes Réka,SDS
 2913,Dénes Zoltán,KAL
 307590,Déry Attila,GOC
 2019782,Dévényi Kristóf,HBS
@@ -514,14 +514,15 @@
 2056155,Egei Petra,SPA
 8636776,Egei Tamás,SPA
 2072240,Eglesz Dénes,SAS
+8070103,Eipl Richárd,GTC
 45765,Elek Krisztina,NYK
 45772,Elek Ádám,NYK
 505212,Emhő Dávid,BMG
 868,Emmer György dr.,DTC
-2019780,Endrődi Gergely,MOM
 2050681,Endrődi József,PAK
 46110,Engi Imre,SZT
 233518,Engi Lilien,VHS
+2072251,Epinger Ákos,HOD
 307767,Erdei Zsófia,KOS
 233535,Erdélyesi Eszter,ARA
 45377,Erdélyi Krisztián,VHS
@@ -535,7 +536,6 @@
 2022155,Erős Zsófia,MAF
 1302785,Erősdi Zakariás,SIR
 233536,Erőss Anikó,SPA
-332855,Erőss Kinga Elvira,ESP
 2014998,Etlinger András,VHS
 332824,F. Tóth András,DNY
 416641,Faggyas Eszter,TTE
@@ -547,6 +547,7 @@
 222967,Faragó Ferdinánd,SPA
 5620,Faragó Hanga,EK
 5620,Faragó Hanga,SAS
+249,Faragó Tamás Bálint,BMG
 45344,Farkas Dénes,HAV
 45530,Farkas Fruzsina,TTE
 45714,Farkas Kitti,NYK
@@ -577,7 +578,6 @@
 9820421,Fekete András,SAS
 937,Fekete Dávid,ETC
 332846,Fekete Gábor,ZTC
-443958,Fekete Marcell,SKS
 2066455,Fekete Sámuel,ZTC
 45280,Fekete Zoltán,ESP
 700006,Fekete Zsuzsa,SAS
@@ -604,6 +604,7 @@
 2022192,Finta Sára Katalin,MAT
 362977,Finta Zoltán,MAT
 7675713,Fischer Mária,TTE
+2014996,Fitos Viola,VHS
 1332287,Fleischer Zoltán,SPA
 1396250,Fluck István,PVM
 363490,Fluck Marcell,PVM
@@ -632,13 +633,13 @@
 232849,Fábics Gergely,PSE
 448979,Fábián Beatrix,FMT
 206240,Fábián Eszter,ZTC
+2082362,Fájer Sára Rebeka,SKS
 307507,Fáy Dániel,TTE
 307569,Fáy Judit,TTE
 443159,Fésűs Evelin Anna,SDS
-307535,Fóthi Kincső,BEA
 307534,Fóthi Ábel,BEA
 307536,Fóthi Ákos,BEA
-46052,Fóthi Áron,BEA
+307535,Fóthi Áron,BEA
 1396235,Főző Péter,PVS
 1396236,Főző-Kertész Anikó,PVS
 364741,Fövenyessy Gabriella Viktória,FMT
@@ -704,13 +705,14 @@
 1398625,Gligor Pavel,HSP
 2800242,Gloch Zalán András,VHS
 2801140,Goldmann Dóra,SDS
-443161,Goldmann Júlia,SDS
+8645186,Goldmann Júlia,SDS
 443152,Goldmann Kata,SDS
 927,Goldmann Róbert,SDS
 8384000,Gombkötő Péter,TTE
 2066466,Gombkötő Péter dr.,TTE
 233530,Gombkötő Zsuzsanna,VTC
 307566,Gombos Csaba,MAF
+8120716,Gond Gergely,GOC
 416639,Grabecz Tibor,ARA
 2082340,Grant Julianna,PSE
 2088254,Gubicz Máté,VSM
@@ -720,30 +722,29 @@
 2067289,Gurály Attila,SPA
 45251,Guszlev Antal,ARA
 2022119,Gutai Dániel,PAK
-1396166,Gyallai János,GYO
+1396166,Gyallai János,SDS
 46077,Gyallai Soma,GYO
 907,Gyalog László,SPA
 8636773,Gyalog Zoltán,SPA
 233660,Gyalog Zsófia,SPA
 46047,Gyarmati Károly,CBD
-206318,Gyenge Barnabás,BMG
 307520,Gyenizse-Nagy Balázs,PVS
 2050660,Gyetvainé Terék Aranka,SZU
 8448444,Gyimesi Zoltán,TTE
 45142,Gyirkis Dénesné,TTE
 4457,Gyulai Péter,MSE
-4458,Gyulai Tamás,MSE
+4458,Gyulai Tamás,GTC
 4459,Gyulai Zoltán,MSE
 363459,Gyurcsik Péter,SZU
 9820818,Gyurikné Kiskopárdi Ildikó,AOS
-45569,Gyurina Szabolcs,PVS
+45569,Gyurina Szabolcs,GKS
 700502,Gyurkó Fanni,SAS
 232782,Gyurkó László,KST
 8160367,Győrffy Gabriella,HSE
 2092461,Győrffy Kristóf,ASK
 2052340,Győri Bertalan,SZV
 45996,Győri Judit,SDS
-232806,Győri János Attila,MCB
+2111511,Győri János Attila,GYO
 411997,Győri Lajos,FSC
 411919,Győri László,SDS
 2032059,Győri Tünde,VHS
@@ -762,8 +763,8 @@
 1000060,Györgyi Ábel,MOM
 416665,Györgyi-Ambró Gergely,MOM
 416664,Györgyi-Ambró Kristóf,MOM
-2072244,Gábor Anita,CBD
-2088237,Gábor József,CBD
+2072244,Gábor Anita,PAK
+2088237,Gábor József,PAK
 222992,Gábor Ágnes,CBD
 2061649,Gál Attila,SAS
 411966,Gál Diana,KAL
@@ -775,10 +776,11 @@
 894,Gárdonyi Réka,OSC
 2050677,Gárdonyi Soma,MOM
 45440,Gárdonyi Zoltán,SPA
-888342,Gárdonyi Zsolt,EK
+888342,Gárdonyi Zsolt,MOM
 46080,Gát Balázs,TTE
 2072224,Gáti András,SPA
 233527,Gáti László,PTX
+2056193,Góczán Pál,SKS
 307741,Gólya István,RTF
 2026823,Góth Roland,GOC
 2056192,Gömbös Gyula,SKS
@@ -791,7 +793,7 @@
 307529,Gönczi Zsolt,ARA
 2069579,Gönczi Zsuzsa,TTE
 46024,Görözdi Máté,SFC
-2004470,Gösswein Csaba,PSE
+2004470,Gösswein Csaba,SDS
 307565,Gösswein Judit,PSE
 2037704,Habina Daiana,SIR
 307798,Hadnagy Árpád,HSP
@@ -800,7 +802,6 @@
 2022147,Hahnné Varga Nikolett,PAK
 45222,Hajagos Henrik,SZV
 45391,Hajagos István,KAL
-2022196,Hajagos Miklós,TTE
 233618,Hajas Csilla,BEA
 2022197,Hajdu Erik,TTE
 2022198,Hajdu Frida,TTE
@@ -809,10 +810,10 @@
 8110000,Hajdu Martin,TTE
 9010622,Hajdu Nelli,TTE
 448961,Hajdu Szása,TTE
+2014505,Hajduska Tímea,SAS
 233531,Hajdú Hajnalka,ESP
 9900330,Hajnal Dorottya,SPA
 955,Hajnal Vince,KAL
-2019797,Hajnács Lili,SZV
 2019797,Hajnács Lili,SZV
 222978,Hajnács Tamás Csaba,SZU
 45396,Halaj László,JMD
@@ -825,7 +826,7 @@
 876,Halász Gergő,ETC
 2026825,Halász Judit,GOC
 45536,Halász László,ETC
-1396135,Hamburger Ágnes,PVS
+1396135,Hamburger Ádám,PVS
 2072246,Hamvai Máté,DCS
 45418,Hanusz Mária,OSC
 1394558,Hanyicska Martin,STE
@@ -859,7 +860,7 @@
 405883,Hegedűs Károly dr.,TTE
 45417,Hegedűs Zoltán,OSC
 9041470,Hegedűs Ágnes dr.,DTC
-6770,Hegedüs András,BEA
+4509,Hegedüs András,BEA
 416682,Hegedüs Kata,BEA
 307575,Hegedüs Márton,BEA
 1555059,Hegedüs Péter,GTC
@@ -867,8 +868,8 @@
 965,Hegedüs Réka,BEA
 1396181,Hegedüs Ábel,BEA
 505290,Hegedüs Ábel,BEA
-222979,Hegedüs Ágnes,BEA
-7670725,Hegedüs Ákos,MSE
+8304999,Hegedüs Ágnes,BEA
+8072567,Hegedüs Ákos,SAS
 2067285,Hegedüs-Virág Zsófia,BEA
 2082375,Hegyi Gábor,SFC
 2067290,Hehl Éva,BBB
@@ -889,7 +890,6 @@
 45371,Hetényi György,BEA
 8636762,Hetényi Péter,HTC
 2088245,Heuer Adrienn,VHS
-2088245,Heuer Adrienn,VHS
 448975,Hevér Csaba,SZU
 222923,Hevérné Fricska Ildikó,SZU
 2072242,Hibján Eszter,DCS
@@ -908,7 +908,7 @@
 46088,Holluby András,PSE
 9080800,Holper Antónia,TTE
 505216,Honfi Gábor,ESP
-232817,Honfi Gábor ifj.,TTE
+2022196,Honfi Gábor ifj.,TTE
 2026845,Hordós Gergő,GOC
 362949,Hornyák Mariann,MSE
 222990,Hornyán Katalin dr.,HSP
@@ -929,7 +929,6 @@
 7550131,Horváth János,TTT
 2025048,Horváth Karina,ZST
 339870,Horváth Katalin,MAF
-2111517,Horváth Klára,KTT
 2072207,Horváth Lilla,SPA
 4510,Horváth László,PSE
 448957,Horváth Magda,TTE
@@ -959,8 +958,7 @@
 2022148,Horányi György,PAK
 416672,Hoór Anikó,ESP
 700003,Hrenkó Ivett,HBS
-1396234,Hrenkó József,ESP
-8081959,Hrenkó László,HBS
+1396234,Hrenkó József,HBS
 8081959,Hrenkó László,HBS
 45169,Hrenkó Lászlóné,NYV
 45288,Hrivnyák Gyula,DTC
@@ -981,7 +979,7 @@
 7281,Héjjas Fruzsina,PAT
 45528,Hódosi Fruzsina,PSE
 411977,Hódsági Ágnes,BEA
-1396198,Ijjász István,PVS
+2009124,Ijjász István,PVS
 222986,Illinger Enikő,BDI
 232789,Illés Péter,HRF
 45297,Illés Vilmos,SSC
@@ -1003,6 +1001,7 @@
 232834,Ivák Eszter,SDS
 232833,Ivák Pál,SDS
 7011218,Iván Eszter,MOM
+7710519,Iván László,BEA
 7420420,Izer Balázs Dániel,SZT
 7163264,Izer Barnabás,SZT
 4487,Izsák Anikó,KRI
@@ -1018,7 +1017,6 @@
 233623,Jakus Zoltán,FSC
 46079,Jancsó Beáta,PSE
 307570,Jancsó Márton,MOM
-307572,Jancsó Áron,MOM
 9999922,Janischowsky Daniel,TTE
 2014986,Jankovics Hajnalka,VHS
 900815,Jankó Dániel,HSE
@@ -1027,7 +1025,6 @@
 4660121,Jenei Margit,SPA
 46116,Jenes Géza,MOM
 1272727,Jenes Soma,MOM
-2019788,Jenes Tünde,MOM
 8383380,Jenővári Gabriella,HSE
 222930,Jordán Soma,DTC
 206018,Juhos György,TTE
@@ -1052,8 +1049,8 @@
 2072218,Jászai Enikő,DCS
 2072216,Jászai Tamás,DCS
 45115,Jécsák Attila,NYV
-2111528,Jóni János,EK
-2052339,Jónás Ferenc,SZV
+2111528,Jóni János,SAS
+8646130,Jónás Ferenc,SZV
 1396109,Jónás Rudolf,POE
 7208017,Józsa Balázs,TTE
 1396271,Józsa Balázs Gábor dr.,GOC
@@ -1063,7 +1060,6 @@
 411982,Józsa Dorottya,MOM
 363487,Józsa György,DTC
 2088256,Józsa Gábor,TSE
-233604,Józsa Gábor,SDS
 500258,Józsa Gábor,PSE
 7731123,Józsa Gábor dr.,DTC
 2022160,Kadlicskó Borbála Katalin,GOC
@@ -1100,6 +1096,7 @@
 233632,Karácsony Péter,HBS
 251894,Kasin Christina Maria,PVS
 994,Kaszás György,HER
+2072254,Kaszás Nikoletta,HOD
 996,Kaszás Orsolya,BSC
 45978,Kaszás Szilvia,BSC
 2015010,Kaszásné Boa Ágnes,VHS
@@ -1135,7 +1132,6 @@
 45192,Kerényi Kinga,HSE
 233624,Kerényi Krisztina,SIR
 7850916,Kerényi Krisztina,GOC
-7850916,Kerényi Krisztina,GOC
 505205,Kerényi Máté,TTE
 45944,Kerényi Szofi,KST
 233695,Kerényi Zsolt,EK
@@ -1145,7 +1141,7 @@
 45256,Kifferné Endes Anikó,ARA
 880221,Killmann Stephanie,ZTC
 999992,Killmann Tobias,ZTC
-8019680,Kinde Kálmán,SPA
+8019680,Kinde Kálmán,VHS
 700504,Kinde Mátyás,KST
 5612,Kinde Sarolta,HSP
 5613,Kinde Tünde,HSP
@@ -1154,10 +1150,12 @@
 2022165,Kintli György,GOC
 222934,Kirilla Péter,DTC
 505251,Király Amanda,ETC
+2037751,Király Boróka,SPA
 45753,Király Lili,NYK
+8656997,Kis Gábor,GTC
+8656998,Kis Kende Ágoston,GTC
 233617,Kisdéri Zita,DTC
 233544,Kishalmi Tamás,VBT
-8020709,Kishanti Petra,SIR
 8020709,Kishanti Petra,SIR
 2072255,Kisházi Emma,HOD
 1396273,Kisházi Gábor,HOD
@@ -1185,6 +1183,7 @@
 2072209,Kiss Kornél,SPA
 416657,Kiss László,MEA
 45948,Kiss László,PSE
+332804,Kiss Mikes Tamás,ESP
 2026882,Kiss Nikolett,GOC
 233655,Kiss Nikolett,SIR
 233649,Kiss Péter,VBT
@@ -1216,7 +1215,7 @@
 232785,Knódel Éva,KOD
 307734,Kobán László,NKZ
 1880412,Kock Dora,SZV
-332805,Kocsik Eszter,ESP
+45104,Kocsik Eszter,ESP
 363408,Kocsik Nóra,ESP
 956,Kocsik Árpád dr.,HSP
 307752,Kocsis Fanni,TTE
@@ -1243,7 +1242,8 @@
 45208,Komár Béláné,HER
 505201,Konkoly Csaba,SPA
 233506,Konrád Krisztina,GYO
-1396230,Konrád Rita,MSE
+1396230,Konrád Rita,GTC
+255,Konzili Kristóf,BMG
 45432,Kopanyecz Attila,MOM
 222974,Kopasz Róbert,KAL
 953,Koprivanacz Imre,KAL
@@ -1254,7 +1254,6 @@
 416666,Korik Andrea,PSE
 416622,Korik Vera,PSE
 307787,Kormos Gábor,ESP
-332812,Kormos Máté,ESP
 45306,Koronczay László,OSC
 45214,Korsós Zoltán,SZU
 2050659,Korsósné Hődör Katalin,SZU
@@ -1267,6 +1266,7 @@
 307755,Kovalcsik István,BBB
 45117,Kovács András,HBS
 232836,Kovács Anett,SIR
+2126700,Kovács Attila Ferenc,EK
 8636769,Kovács Attila Gábor,ZSC
 500570,Kovács Balázs,BEA
 1396227,Kovács Barnabás,PVS
@@ -1277,18 +1277,17 @@
 222994,Kovács Borbála,BBB
 307720,Kovács Botond Bendegúz,BMG
 1396133,Kovács Bálint,PVS
-411921,Kovács Béla,KST
+411921,Kovács Béla,SAS
 411926,Kovács Domonkos,BBB
 45581,Kovács Dávid,ARA
 46008,Kovács Edit,ARA
 363466,Kovács Eszter,BBB
-411931,Kovács Eszter,KST
+411931,Kovács Eszter,SAS
 1023985,Kovács Ferenc,TTE
 2022222,Kovács Ferenc,ZST
 969,Kovács Ferenc,BBB
 903,Kovács Ferenc dr.,PVS
 1396187,Kovács Filoména,PVS
-443163,Kovács Flóra,SDS
 8638563,Kovács Gergely,TTE
 1396228,Kovács Gréta,PVS
 1409484,Kovács Gábor,SZT
@@ -1326,8 +1325,9 @@
 1406163,Kovács Ádám,SZV
 448990,Kovács Ágnes,SZU
 2056156,Kovács Áron,HTC
+504276,Kovács-Marosán Nádja,BEA
+222979,Kovács-Marosán Ágoston,BEA
 332833,Kovácsné Bajnóczi Rita,FMT
-8644484,Kovácsné Gyöngyösi Katalin,KZS
 46086,Kozma Ferenc,NAV
 232815,Kozák Éva,ESP
 45998,Koós Brigitta,SDS
@@ -1338,8 +1338,8 @@
 611028,Kradischnig Günter,TTE
 416593,Krajcovic Martin,KST
 7437,Krajcsovics András,NYV
-1302673,Krajcár Lajos,GTC
-1302660,Krajcár Tamás,GTC
+8196810,Krajcár Lajos,GTC
+8041118,Krajcár Tamás,GTC
 533306,Krajèík Michal,DTC
 2025042,Krakter Dániel,ZST
 2072227,Krasznai Orsolya,SPA
@@ -1347,6 +1347,7 @@
 6996,Krejci Thomas,ZTC
 406976,Krisjakova Jana,ETC
 416503,Krisjakova Maria,ETC
+2111505,Kriza Márton,BMG
 2034116,Krnjaic Dusan,SZV
 45215,Krokavecz Simon,SZV
 232762,Krolopp Frigyes,HSP
@@ -1403,7 +1404,6 @@
 222975,Körmöczi Péter,RTE
 2022168,Kötél Angyalka,GOC
 1820723,Kövesdi Ádám,TTE
-2056157,Kövér Csilla,FSC
 2056157,Kövér Csilla,FSC
 45401,Kún Ferenc,KTX
 1396204,Kühn Edit,PVM
@@ -1482,7 +1482,7 @@
 206449,Lukács Péter,ZTC
 49557,Lukács Sebestyén,TTE
 45712,Lukács Szabolcs,NYK
-1968922,Lukács Vilhelm,GYO
+1968922,Lukács Vilhelm,SDS
 363465,Lukácsi Ágnes Erika,PVS
 307538,Lukóczky Orsolya,BDI
 7530104,Lutring László,TTT
@@ -1499,7 +1499,7 @@
 307746,Léhi Anett,JMD
 46065,Lénárd Miklós,ETC
 232823,Lénárt István,FSC
-2056189,Lénárt Lili,SDS
+8651941,Lénárt Lili,SDS
 2022116,Lénárt Viktória,PAK
 45486,Lévai Ferenc,MEA
 45173,Lévai Kálmán,KSE
@@ -1516,6 +1516,8 @@
 962,Madarassy Mária,BEA
 2056170,Madarassy Pál,BEA
 332861,Madár Brigitta,PSE
+8035702,Mag Fruzsina,SDS
+8035704,Mag Viktória,SDS
 2026849,Magyar Gergő,GOC
 2067299,Magyar Gábor,BMG
 45539,Magyar Gábor,DTC
@@ -1528,6 +1530,7 @@
 2066476,Magyar Ágnes,DNS
 233503,Magyari Orsolya,TTE
 2050687,Magyari Árpád,SPA
+2014989,Majerhoffer Norbert,VHS
 406959,Majláth Martin,KST
 307592,Major Eszter,VHS
 2022213,Major Norbert,GYO
@@ -1556,7 +1559,7 @@
 2111521,Marosi Ákos,ASK
 332900,Marosvölgyi Máté,SPA
 45197,Marosán Dávid,BEA
-504276,Marosán Ágnes,BEA
+8182244,Marosán Ágnes,BEA
 2015000,Marton Balázs,VHS
 45525,Marton Ervin,PSE
 8130268,Marton János,HSP
@@ -1596,7 +1599,7 @@
 332848,Miháczi Ádám,TTE
 2087744,Mihály Gyöngyi,MCB
 2026128,Mihályi Ferenc,TTE
-2088238,Miklós Rita,MCB
+2088238,Miklós Rita,SZV
 45558,Miseta Zsolt,THS
 2032064,Miskey  Bendegúz,VHS
 307708,Miskó Róbert,BSC
@@ -1608,19 +1611,18 @@
 2022170,Mogyoróssy Kitti,GOC
 915,Mohai Gábor,DEA
 906,Mohácsi József,SAS
-233540,Mohácsy Tamás dr.,GYO
+233540,Mohácsy Tamás dr.,SDS
 2022214,Mohácsy Ádám,GYO
+1542,Molnár Anna,BMG
 332816,Molnár Anna,ESP
 2066459,Molnár Attila,HTC
 701224,Molnár Attila,TTE
-8011222,Molnár Attila,VHS
 8011222,Molnár Attila,VHS
 206414,Molnár Barnabás,ZTC
 2050693,Molnár Boglárka,VHS
 8300402,Molnár Botond,ZTC
 411986,Molnár Bálint,SPA
 2066471,Molnár Csaba,SIR
-2111518,Molnár Csaba,KTT
 45386,Molnár Csilla,MOM
 45493,Molnár Domokos,TTE
 2026854,Molnár Dániel,GOC
@@ -1633,6 +1635,7 @@
 232783,Molnár Gábor,DEA
 45747,Molnár Gábor,NYK
 307771,Molnár Ilma,SIR
+1420296,Molnár István,SKS
 505285,Molnár Jeannette,SPA
 53327,Molnár Katalin,SZU
 2022186,Molnár Krisztina,HTC
@@ -1645,12 +1648,10 @@
 46093,Molnár Tibor,SMA
 46127,Molnár Tibor,ARA
 8181815,Molnár Zoltán,VHS
-8181815,Molnár Zoltán,VHS
 45713,Monoki Ádám,NYK
 8160903,Morandini Hanga,SPA
 416626,Morandini Miklós,SPA
 8030916,Morandini Viktor,SPA
-1394567,Morauszkiné Éles Edit,STE
 45150,Moravszki János,HBS
 232816,Morvai András,SDS
 448951,Mosolygó Attila,EK
@@ -1671,7 +1672,11 @@
 920667,Mu¹inský Tomá¹,DTC
 2015004,Májerhoffer Ferenc,VHS
 46071,Málik Petronella,TSE
-307714,Máramarosi István,TSE
+2054133,Máramarosi Anna,SAS
+2054134,Máramarosi Dóra,SAS
+307714,Máramarosi István,SAS
+2054135,Máramarosi Rita,SAS
+2054132,Máramarosi Ákos,SAS
 7202501,Máriás Bence Dániel,MCB
 45244,Máriás Diána Nóra,MCB
 7202834,Máriás Dávid Márk,MCB
@@ -1691,11 +1696,11 @@
 7195402,Mészáros Károly,TTT
 7571102,Mészárosné Boros Valéria,TTT
 8070327,Mézes Botond Csegő,GOC
-2026853,Mézes Emese Csenge,GOC
+8211112,Mézes Emese Csenge,GOC
+8131110,Mézes Hunor Keve,GOC
 8180474,Mézes Tibor Sólyom,GOC
 307710,Móczár Albertné,BSC
 45522,Mód Rudolf,VBT
-2056195,Móger Tibor,SKS
 332884,Móra Gábor,FSC
 411900,Móro Tibor,PVS
 222917,Mörk Péter,MAT
@@ -1713,15 +1718,16 @@
 505275,Nagy Balázs,POE
 2022131,Nagy Bence,SPA
 411974,Nagy Bence,SZV
-4460,Nagy Bence,GTC
+8655948,Nagy Bence,GTC
 233693,Nagy Beáta,SPA
 232658,Nagy Dezső,HSP
 2072225,Nagy Dóra,DCS
 362973,Nagy Eszter,SPA
+8655947,Nagy Eszter,GTC
 7088,Nagy Ferenc,PSE
 45210,Nagy Gergő,SZV
 307544,Nagy Gertrúd,BMG
-233659,Nagy Gábor,KFK
+1586808,Nagy Gábor,KFK
 45494,Nagy Gábor,SAS
 45926,Nagy Gábor,JMD
 339866,Nagy Ildikó,OSC
@@ -1734,7 +1740,8 @@
 443164,Nagy Krisztina,SDS
 8290376,Nagy Krisztina,BEA
 2056159,Nagy Lajos,ETC
-934,Nagy Lajos Viktor,MSE
+8655949,Nagy Lajos Viktor,GTC
+8061004,Nagy Levente,GOC
 970,Nagy László,SDS
 2111545,Nagy Martin,BMG
 46135,Nagy Miklós,FMT
@@ -1744,8 +1751,9 @@
 505237,Nagy Patrik,VHS
 1409482,Nagy Patrik Attila,SZT
 2012228,Nagy Péter,VHS
-2111507,Nagy Péter,GKS
+2111507,Nagy Péter,SPA
 2062976,Nagy Richárd,NYK
+443163,Nagy Szilvia,SDS
 45260,Nagy Sándor,ARA
 8000420,Nagy Sándor,SAS
 45770,Nagy Sándor Balázs,NYK
@@ -1753,11 +1761,12 @@
 46098,Nagy Tamás,ZTC
 2050669,Nagy Tibor,MCB
 307511,Nagy Tibor,FSC
+2066457,Nagy Tifani,SKS
 45501,Nagy Viktor,KAL
 2022132,Nagy Viktória,SPA
 45755,Nagy Viktória,NYK
 2052345,Nagy Virág,SZV
-1396274,Nagy Zsanett,MSE
+1396274,Nagy Zsanett,SAS
 45193,Nagy Zsolt,FMT
 46081,Nagy Zsolt ifj.,FMT
 45515,Nagy Zsuzsanna,ZTC
@@ -1876,6 +1885,7 @@
 236366,Oszkóné Simon Ildikó,SPA
 45429,Oszlovics Orsolya,MOM
 46031,Oszlovics Ádám,MOM
+443158,Osztafin Lili,SDS
 45582,Ozorák István dr.,ARA
 443165,Ozsvárt Dóra,SDS
 4660126,Pallos Tímea,SPA
@@ -1914,17 +1924,20 @@
 700122,Paulovits László,SPA
 2025045,Pavlovics Balázs,ZST
 45598,Pavlovics György dr.,ZST
-1396212,Pavlovics György ifj. dr.,ZST
-1396268,Pavlovics Gábor,PVS
+1396212,Pavlovics György ifj.,ZST
+1419841,Pavlovics Gábor,PVS
+45162,Pavlovics Mátyás,PVS
 45562,Pavlovics Tímea,ZST
 2025047,Pavlovics Zsófia,ZST
 1396211,Pavlovicsné Tomisa Andrea dr.,ZST
 46104,Pearson Hilary,PSE
 46097,Pearson John,PSE
 307716,Pegán Bernadett,VTC
+8333833,Pegán Ágnes,VHS
 2088244,Peics Antal Zsolt,KFK
 2075030,Peles Vad Alexandru,SIR
 45202,Pelhős Lívia,TTE
+8644484,Peltzer-Gyöngyösi Katalin,KZS
 233673,Pelyhe Dániel,SDS
 881,Pelyhe Dénes,SDS
 882,Pelyhe Dénes ifj.,SDS
@@ -1948,6 +1961,7 @@
 232840,Pető Dániel,HSE
 2026857,Pihés Réka,GOC
 8625548,Pilkowski Tadeusz,SPA
+8112900,Piller-Dávid Marcell,ESP
 416685,Pillmann Gábor,PVM
 7691019,Pincés Marianna,TTT
 46041,Pintyili Gergely,DTC
@@ -1999,10 +2013,10 @@
 46014,Pálinkás Tamás,BDI
 416624,Pálvölgyi Zoltán,SPA
 2072203,Pályi Lőrinc,MOM
-2019804,Pályi Patrik,MOM
 2066467,Pápai János,ARA
 232755,Pápai Tamás,ARA
 45263,Pápainé Poós Ildikó,ARA
+443956,Pásti András,SKS
 1420822,Pásti Fanni,SZT
 332817,Pászthy Dániel,ESP
 45272,Pásztor Imre,SZV
@@ -2013,6 +2027,7 @@
 307522,Péley Dániel,PVS
 7551021,Péntek Gréti,BSC
 345932,Péntek Gábor,BSC
+505293,Péntek Gáborné,BSC
 45332,Péntek Márta,KST
 2022218,Péntek Márton,BSC
 1396184,Péntek Mátyás,BSC
@@ -2031,7 +2046,6 @@
 2072288,Radics Anna,ETC
 505228,Radnai Zsolt,PVS
 45409,Radnóti Rezső,SAS
-2019810,Rajkó Dávid,MOM
 46113,Rajncsák Dávid,MAF
 920680,Rakayova Martina,DTC
 4660154,Ramel Dániel,SPA
@@ -2096,6 +2110,7 @@
 1566998,Rózsa László,MSE
 232820,Rózsa László,ARA
 339865,Rózsa Ábel,SPA
+443958,Rövid Richard,SKS
 1409483,Saitz Krisztián,SZT
 307598,Salfer Eszter,MOM
 500837,Salfer Viktor,MOM
@@ -2109,7 +2124,7 @@
 4491,Schell Antal,PSE
 45537,Schell Antal ifj.,PSE
 4492,Schell Antalné,PSE
-2066456,Schenk Anna,SKS
+2066456,Schenk Anna,TTE
 2026881,Schlitt Kamilla,GOC
 232821,Schlosser Balázs,SMA
 505206,Schmal Kinga,ZST
@@ -2146,6 +2161,8 @@
 45258,Serák Katalin,ARA
 1721229,Serény Zsuzsi,TTE
 307528,Siegler Konrád,BEA
+2111529,Siklós Özséb,EK
+2111530,Siklósné Magyar Enikő,EK
 2014506,Silye Imre,SAS
 1396240,Simkó Livia,BKL
 1396241,Simkó Zoltán,BKL
@@ -2153,9 +2170,8 @@
 2050697,Simon Cintia,ZTC
 45756,Simon Cintia,NYK
 45599,Simon Gyula,DIS
-332804,Simon Gábor,ESP
 233671,Simon Hajnalka,SAS
-416696,Simon Krisztina,ETC
+211890,Simon Krisztina,ETC
 5624,Simon Tamás,SAS
 45235,Simon Ágnes,ETC
 233670,Sinka Melinda,DTC
@@ -2171,9 +2187,11 @@
 7740712,Skropné Szuromi Éva,ARA
 2008508,Sláma Dusan,DTC
 886321,Sobas Aleksandra,SDS
+2082363,Solti Péter,SKS
 2111506,Somlai Katalin,SPA
 46112,Somlay Gábor,ARA
 45204,Somlóvári Gyula,TTE
+251,Somogyi Dániel,BMG
 233522,Somogyi Lajos,BSC
 233523,Somogyi László,BSC
 307518,Soós László,TSE
@@ -2183,6 +2201,7 @@
 1300068,Spisák László,FSC
 917,Spitzner Sándor József,TTT
 760102,Spjelkavik Henning,HSP
+7025619,Spohn Márton,SAS
 45964,Sprok Bence,PVS
 443168,Sramkó Réka,SDS
 8636774,Sramkó Tibor,SDS
@@ -2276,14 +2295,14 @@
 7991224,Szalay Levente,ASK
 8636775,Szalay Zente Álmos,TTE
 232813,Szalkai Iván,SSC
-2019794,Szalmás Márton,MOM
 307729,Szalontai Beáta,BDI
+8648823,Szalontai Sára,BSC
 363473,Szalóki Gábor,GYO
 8111114,Szalóki Rezső,GYO
 2082367,Szandi Bence,SZT
 2066489,Szandi Péter,SZT
 2022175,Szandi Sára Barbara,GOC
-505224,Szarvas Gyula,MEA
+7650602,Szarvas Gyula,MEA
 45105,Szathmári László,ETC
 45566,Szathmári Nóra,DEA
 45281,Szatmáry Judit,CBD
@@ -2293,6 +2312,7 @@
 2082369,Szebeliné Toldi Éva,SSC
 45250,Szebeni Zsolt,PSE
 45498,Szecsődi Ákos,BEA
+2050670,Szegi Natália,BEA
 46130,Szekeres Sándor,HRF
 46056,Szekeres Árpád,AOS
 2022176,Szekér Bence Dávid,GOC
@@ -2316,13 +2336,12 @@
 332897,Szerző Regina,FSC
 2066473,Szieberth Péter,PVM
 45452,Szigetfy Ildikó,VHS
-45452,Szigetfy Ildikó,VHS
 45433,Szigethy Ágnes,MOM
 345899,Szijártó Anikó,SPA
 2082370,Sziki Ágnes,SAS
 2050690,Szikra Zoltán,FSC
 2037711,Szikszai Csongor,SIR
-233658,Szikszai Szabolcs,SDS
+8645178,Szikszai Szabolcs,SDS
 2056163,Szilvási Maja,ZST
 1396175,Sziládi Tamás,PVS
 1396261,Sziládi Zoltán,PVS
@@ -2332,7 +2351,8 @@
 45383,Szilágyi Eszter,PVM
 9010701,Szilágyi Iringó,DTC
 232844,Szilágyi Mónika,TSE
-8636779,Szitter Attila,GKS
+337880,Szilágyi Zselyke,GKS
+45543,Szilágyi Zselyke Julianna,DTC
 8636779,Szitter Attila,GKS
 2056182,Sziva László,ZTC
 232757,Szivák András,GOC
@@ -2355,7 +2375,7 @@
 1393113,Szunyog Emese,SAS
 8636771,Szunyog József dr.,SAS
 45563,Szuromi Balázs,HSE
-9000204,Szuromi Hanga,PVS
+7207212,Szuromi Hanga,PVS
 45411,Szuromi Imréné,SPA
 9970827,Szuromi Luca,PVS
 2082351,Szuromi Márta,SPA
@@ -2380,7 +2400,7 @@
 2032051,Széplaki Erika,VHS
 363450,Szóka Attila,VBT
 339888,Szőcs Anett,HSP
-9102026,Szőcs Attila,GOC
+9102026,Szőcs Attila,SZV
 233550,Szőcs Fruzsina,KST
 307553,Szőcs László,HSP
 2061626,Szőcs Zoltán,GOC
@@ -2393,7 +2413,7 @@
 2022138,Szölgyémy Anita,SPA
 45392,Szöllősi Judit,HOD
 45540,Szörényi Gábor,DTC
-7117117,Szűcs Attila,HSP
+8117117,Szűcs Attila,HSP
 45176,Szűcs B. Levente,HSP
 7201396,Szűcs Botond,DTC
 222918,Szűcs György dr.,PVS
@@ -2410,7 +2430,6 @@
 888370,Sági Péter,MAF
 233629,Sándor László,OSC
 2066462,Sándor Tamás,SAS
-2014505,Sándor Tímea,SAS
 2022172,Sánta András,GOC
 2026827,Sánta Bendegúz,GOC
 2022173,Sánta Csenge,GOC
@@ -2418,10 +2437,10 @@
 411911,Sárecz Bence,ZTC
 448980,Sárecz Lajos ifj.,ZTC
 1396158,Sárecz Éva,ZTC
+2082364,Sárközi Niké,SKS
 7040926,Sárközy Rita,MOM
 7990513,Sárközy Zsófia,MOM
 2037705,Sárosi Ágnes,SIR
-46044,Sárospataki Anna,BMG
 307725,Sárospataki Barnabás,BMG
 875,Sávai Mária,AOS
 233685,Síkhegyi Antónia,BEA
@@ -2435,25 +2454,29 @@
 4507,Sőtér János,PSE
 45526,Sőtér Réka,PSE
 45527,Sőtérné Farkas Anna,PSE
+448971,Sörös Karina,SDS
 332869,Süle Ferenc Attila,FMT
 2022188,Süli Márk,HTC
 46042,Sümegi János,DTC
 46040,Sümegi Mária,DTC
 45171,T.Nagy Sándor,SZU
-45171,T.Nagy Sándor,SZU
 2082339,Tajnai Anita,SZT
-443170,Tajti Adrienn,SDS
 339835,Tajti Evelin,SDS
 45915,Takács Balázs,SZV
+1421967,Takács Bálint,SKS
 45989,Takács Bálint,PVS
-2082376,Takács Csaba,TTE
+8639460,Takács Csaba,VHS
 4464,Takács István,MSE
+1420774,Takács János,SKS
 411971,Takács József,HER
+206318,Takács Kristóf,BMG
+2066458,Takács Kristóf,SKS
 307712,Takács Krisztián,BSC
 8200082,Takács Orsolya,GOC
-8020802,Takács Szilvia,GOC
+8020802,Takács Szilvia,SIR
 233656,Takács Sándor,VTC
 2066470,Takács Ticián,ZTC
+1420851,Takács Zsófia,SKS
 2019783,Takács Zsóka,HBS
 1396146,Takács Ágnes,SZV
 25026,Takácsné Tömördi Gabriella,SMA
@@ -2475,7 +2498,7 @@
 8130503,Tarsoly Panka,GOC
 8310771,Tarsoly Róbert,GOC
 8180707,Tarsoly Tas Töhötöm,GOC
-45125,Tas Dávid,MEA
+45125,Tas Dávid,TTE
 46030,Tas Katalin,MOM
 45155,Tas Máté,MOM
 967,Tasi Ákos,TTE
@@ -2487,6 +2510,7 @@
 5615,Tertsch Antal,SAS
 502393,Tibay Ilona,SIR
 1396191,Tihanyi László dr.,POE
+248,Timár Balázs,BMG
 2022151,Tinnyei Petra,PAK
 332822,Tiszlavicz Veronika,ESP
 45430,Tiura Tapio,MOM
@@ -2529,14 +2553,12 @@
 2014993,Tátrai Gergely,VHS
 2015018,Tátrai Teréz,VHS
 9000820,Tóbis Anita,DTC
-337880,Tóbiás Márton,GKS
 2072257,Tódor Elizabet,HOD
 2072252,Tódor Marcell,HOD
 232792,Tósaki Zoltán,FMT
 2022199,Tóth Adrián,TTE
 2022149,Tóth Alexandra,PAK
-2072215,Tóth András,GKS
-2087743,Tóth Attila,VHS
+8341337,Tóth András,GKS
 2087743,Tóth Attila,VHS
 1991218,Tóth Balázs,MAT
 2026895,Tóth Barbara,GOC
@@ -2554,7 +2576,7 @@
 1396132,Tóth János,POE
 362942,Tóth János,HRF
 505288,Tóth János,SKS
-45408,Tóth Józsefné,HAV
+45408,Tóth Józsefné,SAS
 888359,Tóth Korinna,SDS
 53416,Tóth Krisztina,TTE
 45187,Tóth Károly,VTC
@@ -2581,6 +2603,7 @@
 505276,Tóth Zsolt,POE
 339830,Tóth Zsuzsanna,MAT
 2022112,Tóth Zsófia,SZV
+443170,Tóth Ábel Tibor,SDS
 502372,Tóth Ádám,GYO
 411967,Tóth Ágnes,MAF
 332840,Tóth-Buschmann Ilka,TTE
@@ -2591,12 +2614,10 @@
 233532,Tőkés József,TSC
 1006644,Tőkés Tímea,KST
 1006655,Tőkés Árpád,SAS
-332807,Tősi Virág,ESP
 332864,Tölgyesi Aurél,VHS
 222973,Tölgyesi Blanka,SPA
 416687,Tölgyesi Péter,DTC
 232763,Tölgyesi Renátó,SPA
-7201394,Tölgyesi Tamás,DTC
 232805,Tölgyesi Ákos ifj.,VHS
 2019916,Tömördi Ágnes,HSE
 2032061,Tömösközy Tamás,VHS
@@ -2616,6 +2637,7 @@
 7750416,Uhlir Péter,ZTC
 505270,Uhlir Tímea,ZTC
 2022140,Ujhelyi Dalma,SPA
+2022210,Ujvári Györgyi,GYO
 332823,Ujvárosi Lajosné,DNY
 307764,Ulicska Áron,KOS
 2022141,Ungvárszky Ádám,SPA
@@ -2626,21 +2648,18 @@
 2022220,Vaczkó János,VBT
 416630,Vadász Endre,DNS
 46054,Vadász Mihály,DNS
+8636835,Vadász Péter Zalán,PVS
 416629,Vadász Tamás,DNS
 45544,Vadászné Kerese Andrea,DNS
 45189,Vajai István,VTC
 2019801,Vajda Balázs,SZV
-2088242,Vajda Balázs,VHS
 2088242,Vajda Balázs,VHS
 45518,Vajda József,ZTC
 233513,Vajda Kolos,SMA
 2019792,Vajda Luca,SZV
 45157,Vajda László,ZTC
 2082356,Vajda Péter,VHS
-2082356,Vajda Péter,VHS
 888334,Vajda Zsolt,VHS
-888334,Vajda Zsolt,VHS
-363482,Vajda-Kovács Ágnes,VHS
 363482,Vajda-Kovács Ágnes,VHS
 416656,Valler Ferenc,MEA
 45919,Valler Krisztina,MEA
@@ -2650,7 +2669,7 @@
 233602,Varga Adél,SIR
 2082379,Varga Attila,ARA
 2026869,Varga Benjámin,GOC
-2036437,Varga Boglárka,GYO
+2036437,Varga Boglárka,ESP
 45516,Varga Bálint,ZTC
 332802,Varga Gergő,ESP
 2082353,Varga György,POE
@@ -2659,10 +2678,9 @@
 2019818,Varga József,GOC
 7890728,Varga László,MAF
 2022178,Varga Marcell Máté,GOC
-8222228,Varga Petra,SDS
+8222228,Varga Petra,SIR
 2026871,Varga Roland,GOC
 4506,Varga Sándor,BEA
-443960,Varga Viktória,SKS
 7570608,Varga Zoltán,TTT
 2019817,Varga Zsolt,GOC
 2019814,Varga Zsombor,GOC
@@ -2670,12 +2688,12 @@
 2072253,Varga-Tóth Blanka,HOD
 46147,Vargáné Kocsis Katalin,GOC
 888354,Vargáné Ponyi Anita,HUF
-233642,Varsányi Attila,MCB
+233642,Varsányi Attila,EK
 222902,Varsányi Ferenc,MSE
-7201393,Varsányi Kinga,SIR
+7201393,Varsányi Kinga,VHS
 8410281,Vas Gábor,DTC
 2014972,Vass Bence,VHS
-363410,Vass Dániel,ESP
+363410,Vass Dániel,SDS
 232811,Vass Flóra,SZV
 232810,Vass Luca,SZV
 2022179,Vass Petra,GOC
@@ -2687,7 +2705,8 @@
 307713,Vasvári Ábris,RTF
 45428,Vaszilev Katalin,MOM
 8625620,Vellner Gábor,SPA
-45551,Venczel Gábor,MEA
+45551,Venczel Gábor,CBD
+443166,Verebélyi Márton,SDS
 45271,Verebélyi Zsolt,KTT
 307552,Veres Imre,ESP
 363457,Veres Pál,HRF
@@ -2698,8 +2717,7 @@
 45488,Veresné Gyalog Zsuzsanna,SPA
 363456,Veresné Sipos Etel,HRF
 2050691,Vereszki Tibor,VHS
-2050691,Vereszki Tibor,VHS
-2087749,Veszelka Noémi,MCB
+2087749,Veszelka Noémi,SZV
 2092465,Veszelszki Barnabás,ASK
 45324,Veszelszki Márton,ASK
 222939,Viczena Miklós,ARA
@@ -2714,6 +2732,7 @@
 2037712,Vigh Loránd Eduárd,SIR
 411962,Vighné Horváth Beáta,HER
 2026828,Vincze Balázs,GOC
+2014991,Vincze Barnabás,VHS
 45596,Vincze Gábor,HRF
 4466,Vincze István,HBS
 232794,Vincze Károly,HRF
@@ -2733,6 +2752,7 @@
 2022207,Vitális Csanád Örs,HTC
 45252,Vitéz László,SZU
 46005,Vizauer Gyöngyi,PVS
+8648829,Vizi Eszter,BSC
 2801096,Vizi István,ARA
 307757,Vizi Kata Veronika,HRF
 416615,Vizi Tamás,DNY
@@ -2757,6 +2777,7 @@
 411937,Váryné Horváth Erzsébet,LIT
 46126,Vásárhelyi Tass,ESP
 2026883,Vécsei Dávid,GOC
+1541,Végh Zalán,BMG
 980,Vékony Andor,SIR
 8020905,Vékony Janka,SIR
 7991029,Vékony Vanda,SIR
@@ -2785,6 +2806,7 @@
 1000042,Werner Péter,PVS
 448970,Wieder Ferenc,VHS
 307744,Wieder Ilona,VHS
+2056195,Wieder Kata,SKS
 45257,Wittinger Zsuzsa,BEA
 363420,Zabaglo Máté,CSP
 2022143,Zacher Enikő,SPA
@@ -2806,9 +2828,9 @@
 1841194,Zempléni Lilla,MOM
 505231,Zempléni Réka,SIR
 1300265,Zencsenko Tamara,HBS
+2072287,Zentai József,HUF
 45533,Zentai László,HSE
 45360,Zoboki Barna,THT
-2050692,Zoboki Mihály,VHS
 2050692,Zoboki Mihály,VHS
 307523,Zolarek István,PVS
 8000521,Zsebeházy Eszter,SAS
@@ -2830,6 +2852,7 @@
 416701,Zánkay András,BEA
 2061641,Závodszky Tamás,SAS
 45121,Zöldesi Andor,TSE
+8000425,ifj. Eipl András,GTC
 406938,©melík Martin,DTC
 45567,Ács Bálint,ZTC
 502394,Ács Gábor,ZTC
@@ -2851,7 +2874,7 @@
 45136,Éliás Vilmosné,TTE
 45349,Ézsiás Katalin,SPA
 1060406,Ódor Laura,GTC
-46125,Ódor Viktória,FMT
+8046125,Ódor Viktória,FMT
 1791029,Ódor Zoltán,GTC
 2012229,Óváry-Nagy Andrea,VHS
 1300070,Őry Eszter,MOM
