@@ -1,3 +1,5 @@
 .idea
 mtfsz-*.csv
 *.iml
+.DS_Store
+
